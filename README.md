@@ -6,6 +6,12 @@ A local dashboard that reads your Claude Code session data from `~/.claude/proje
 
 No signup. No cloud. No `pip install`. Pure Python stdlib.
 
+<p align="center">
+  <a href="https://vinayakkaushikdh.github.io/claude-session-xray/demo.html">
+    <img src="https://img.shields.io/badge/▶%20Try%20the%20live%20demo-FF2E88?style=for-the-badge&logoColor=white" alt="Try the live demo" height="48">
+  </a>
+</p>
+
 ---
 
 ![Fleet view](docs/screenshots/fleet.png)
